@@ -30,7 +30,6 @@ int main(void){
     int N = 5;
     int* M = (int *) malloc(N * N * sizeof(int));
     int* v = (int *) malloc(N * sizeof(int));
-    int* test_v = (int *) malloc(N * sizeof(int));
     int* output_v = (int *) malloc(N * sizeof(int));
 
     
